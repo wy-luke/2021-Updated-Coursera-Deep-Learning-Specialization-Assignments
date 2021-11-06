@@ -11,3 +11,5 @@ Assignment of 2021 updated Deep Learning Specialization by Andrew Ng on Coursera
 ### PDF File
 
 [2021-Update Change Log](./2021-UpdateChangeLog.pdf)
+
+Course 1 has no new assigment and Course 3 has no assigment.
