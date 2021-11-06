@@ -1,4 +1,4 @@
-# 2021-Updated-Coursera-Deep-Learning-Specialization
+# 2021 Updated Coursera Deep Learning Specialization Assigments
 
 [Coursera](https://www.coursera.org) / [DeepLearning.AI](http://deeplearning.ai) updated its Deep Learning Specialization in 2021. This update has some new assigments and some new videos.
 
