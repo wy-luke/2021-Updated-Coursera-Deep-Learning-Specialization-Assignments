@@ -1,8 +1,6 @@
 # 2021-Updated-Coursera-Deep-Learning-Specialization
 
-Assignments of 2021 updated Deep Learning Specialization by Andrew Ng on Coursera.
-
-Coursera DeepLearning.AI updated its Deep Learning Specialization in 2021. This update has some new assigments and some new videos.
+[Coursera](https://www.coursera.org) / [DeepLearning.AI](http://deeplearning.ai) updated its Deep Learning Specialization in 2021. This update has some new assigments and some new videos.
 
 There is no Course 1 and 3, cause Course 1 has no new assigment and Course 3 has no assigment.
 
