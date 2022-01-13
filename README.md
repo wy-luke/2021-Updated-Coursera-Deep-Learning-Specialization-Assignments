@@ -1,16 +1,14 @@
-# 2021 Updated Coursera Deep Learning Specialization Assigments
+# 2021 Updated Coursera Deep Learning Specialization Assignments
 
-[Coursera](https://www.coursera.org) / [DeepLearning.AI](http://deeplearning.ai) updated its Deep Learning Specialization in 2021. This update has some new assigments and some new videos.
+[Coursera](https://www.coursera.org) / [DeepLearning.AI](http://deeplearning.ai) have updated their **Deep Learning Specialization** in 2021. This update contains some **new assignments** and some new videos. So I put my own assignments here for record. And hope it could be helpful to those who are learning these courses❤.
 
-There is no Course 1 and 3, cause Course 1 has no new assigment and Course 3 has no assigment.
+This repo has no Course 1 and 3, cause **Course 1 has no new assignment and Course 3 has no assignment.**
 
-These are all from my own assigment.
+**Please do not directly copy to your assignment.**
 
-**Please do not directly copy to your assigment.**
+**Please do not directly copy to your assignment.**
 
-**Please do not directly copy to your assigment.**
-
-**Please do not directly copy to your assigment.**
+**Please do not directly copy to your assignment.**
 
 ## 2021 Update Change Log
 
@@ -21,3 +19,5 @@ These are all from my own assigment.
 ### PDF File
 
 [2021-Update Change Log](./2021-UpdateChangeLog.pdf)
+
+Could you please **give me a star⭐** if this repo is helpful to you? Thank you!
